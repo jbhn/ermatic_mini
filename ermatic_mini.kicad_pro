@@ -716,7 +716,7 @@
         "uuid": "00125b74-8765-4a13-8274-ecd2437fa525"
       }
     ],
-    "used_designators": "",
+    "used_designators": "RL1-4,#PWR16-18,#PWR20-24,#PWR28-29,#PWR32-33,#PWR46,D2-3,D12-14,D16,D32,R7,R18,R26,R31,J3-11,J13,JP1-4,U3",
     "variants": [
       {
         "name": "mini"
@@ -727,10 +727,6 @@
     [
       "00125b74-8765-4a13-8274-ecd2437fa525",
       "ermatic_mini"
-    ],
-    [
-      "af5e9d4b-82fe-4bfc-8bc4-b83d09e6b3cc",
-      "executive-part"
     ]
   ],
   "text_variables": {},
